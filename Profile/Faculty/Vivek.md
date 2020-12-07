@@ -2,7 +2,7 @@
 
 ### Cloud Computing
 
-![Display picture](Photos/vivek.jpg)
+![Display picture](Photos/Vivek.jpg)
 
 ## Qualification
 
